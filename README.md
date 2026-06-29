@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Geetika Vishwakarma
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding animation" />
@@ -8,7 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Java+Developer;Python+Developer;SQL+Enthusiast;HTML+CSS+JavaScript+Lover" alt="typing animation" />
 </p>
 
-I’m a passionate learner and developer interested in building useful projects with clean code and modern web technologies.
+I’m Geetika Vishwakarma, a motivated and curious developer with a strong foundation in Java, Python, SQL, and web technologies. I enjoy solving problems, building practical projects, and continuously improving my skills to create meaningful software solutions.
+
+## Core Strengths
+- Problem solving and logical thinking
+- Clean and structured coding practices
+- Frontend development with HTML, CSS, and JavaScript
+- Backend and scripting with Java and Python
+- Database handling with SQL
+- Version control using Git and GitHub
 
 ## Skills
 - Java ☕
@@ -18,22 +26,25 @@ I’m a passionate learner and developer interested in building useful projects 
 - CSS 🎨
 - JavaScript ⚡
 
+## Featured Projects
+- Beginner-to-intermediate programming practice projects
+- Web development projects
+- Database and logic-based applications
+- Small real-world solutions built with practical coding skills
+
 ## Tools & Platforms
 - VS Code
 - Git & GitHub
 - MySQL / SQLite
 - Windows
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
 ## Current Focus
-- Practicing coding problems
-- Building real-world projects
-- Improving web development skills
+- Building project-based experience
+- Strengthening problem-solving and DSA concepts
+- Learning modern web and software development practices
+- Preparing for internships and professional opportunities
 
 ## Connect With Me
 - GitHub: https://github.com/GeetikaVishwakarma
 - LinkedIn: https://www.linkedin.com/feed/
+- Email: geetikavishwakarma808@gmail.com
